@@ -1,3 +1,3 @@
 #!/usr/bin/env python
 # goodbye program.
-print("Goodbye cruel World")
+print("Goodbye, slightly unkind World")
